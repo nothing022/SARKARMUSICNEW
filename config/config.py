@@ -95,7 +95,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/SARKAROP123/SARKARMUSICNEW",
+    "https://github.com/nothing022/SARKARMUSICNEW",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -114,14 +114,14 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/TG_NAME_STYLE"
+    "SUPPORT_CHANNEL", "https://t.me/nothingbots"
 )  # Example:- https://t.me/ll_MOI_ll
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/ll_MOI_ll"
+    "SUPPORT_GROUP", "https://t.me/nothingbots"
 )  # Example:- https://t.me/ll_MOI_ll
 
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "https://t.me/TG_NAME_STYLE"
+    "SUPPORT_GROUP", "https://t.me/nothingbots"
 )  # Example:- https://t.me/TG_NAME_STYLE
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", False)
@@ -144,7 +144,7 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/SARKAROP123/SARKARMUSICNEW")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com")
 
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
@@ -217,12 +217,12 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://graph.org/file/c987a45eb824ab7de1dd3-d6f94e5c309b0c0b43.jpg",
+    "https://envs.sh/p1H.jpg",
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/a494ac7666704a51d6448.png",
+    "https://envs.sh/p1H.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
@@ -237,7 +237,7 @@ GLOBAL_IMG_URL = getenv(
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://telegra.ph/file/a494ac7666704a51d6448.png",
+    "https://envs.sh/p1H.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
