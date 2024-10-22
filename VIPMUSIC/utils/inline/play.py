@@ -83,15 +83,7 @@ def stream_markup_timerr(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/ll_SARKAR_MERA_BABU_ll"
-            ),
-            InlineKeyboardButton(
-                text="❰𝐀𝐋𝐋 𝐁𝐎𝐓𝐒❱", url="https://t.me/TG_NAME_STYLE/4368"
-            ),
-        ],
-        [
-            InlineKeyboardButton(
-                text="❰𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄❱", url="https://t.me/TG_NAME_STYLE/4602"
+                text="✯ ᴄʟᴏsᴇ ✯", callback_data=f"close"
             ),
         ],
     ]
@@ -152,15 +144,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/ll_SARKAR_MERA_BABU_ll"
-            ),
-            InlineKeyboardButton(
-                text="❰𝐀𝐋𝐋 𝐁𝐎𝐓𝐒❱", url="https://t.me/TG_NAME_STYLE/4368"
-            ),
-        ],
-        [
-            InlineKeyboardButton(
-                text="❰𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄❱", url="https://t.me/TG_NAME_STYLE/4602"
+                text="✯ ᴄʟᴏsᴇ ✯", callback_data=f"close"
             ),
         ],
     ]
@@ -415,15 +399,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/ll_SARKAR_MERA_BABU_ll"
-            ),
-            InlineKeyboardButton(
-                text="❰𝐀𝐋𝐋 𝐁𝐎𝐓𝐒❱", url="https://t.me/TG_NAME_STYLE/4368"
-            ),
-        ],
-        [
-            InlineKeyboardButton(
-                text="❰𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄❱", url="https://t.me/TG_NAME_STYLE/4602"
+                text="✯ ᴄʟᴏsᴇ ✯", callback_data=f"close"
             ),
         ],
      ]
@@ -628,15 +604,7 @@ def stream_markup_timer2(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/ll_SARKAR_MERA_BABU_ll"
-            ),
-            InlineKeyboardButton(
-                text="❰𝐀𝐋𝐋 𝐁𝐎𝐓𝐒❱", url="https://t.me/TG_NAME_STYLE/4368"
-            ),
-        ],
-        [
-            InlineKeyboardButton(
-                text="❰𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄❱", url="https://t.me/TG_NAME_STYLE/4602"
+                text="✯ ᴄʟᴏsᴇ ✯", callback_data=f"close"
             ),
         ],
 ]
